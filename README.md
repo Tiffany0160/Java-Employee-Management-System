@@ -1,4 +1,4 @@
-# Java-Employee-Management-System
+# Employee-Management-System Java
 
 A professional **Java project** demonstrating a complete **Employee Management System** using:
 
